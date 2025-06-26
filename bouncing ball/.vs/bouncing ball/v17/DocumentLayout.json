@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\bouncing ball\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3629AA2-1306-AB16-02A0-50A5038C9BD2}|Assembly-CSharp.csproj|C:\\Users\\User\\bouncing ball\\assets\\kodlar\\yoneticialt\u0131gen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3629AA2-1306-AB16-02A0-50A5038C9BD2}|Assembly-CSharp.csproj|solutionrelative:assets\\kodlar\\yoneticialt\u0131gen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3629AA2-1306-AB16-02A0-50A5038C9BD2}|Assembly-CSharp.csproj|C:\\Users\\User\\bouncing ball\\assets\\kodlar\\squaretiklama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3629AA2-1306-AB16-02A0-50A5038C9BD2}|Assembly-CSharp.csproj|solutionrelative:assets\\kodlar\\squaretiklama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3629AA2-1306-AB16-02A0-50A5038C9BD2}|Assembly-CSharp.csproj|C:\\Users\\User\\bouncing ball\\assets\\kodlar\\hexagontiklama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3629AA2-1306-AB16-02A0-50A5038C9BD2}|Assembly-CSharp.csproj|solutionrelative:assets\\kodlar\\hexagontiklama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3629AA2-1306-AB16-02A0-50A5038C9BD2}|Assembly-CSharp.csproj|C:\\Users\\User\\bouncing ball\\assets\\kodlar\\geritusu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3629AA2-1306-AB16-02A0-50A5038C9BD2}|Assembly-CSharp.csproj|solutionrelative:assets\\kodlar\\geritusu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3629AA2-1306-AB16-02A0-50A5038C9BD2}|Assembly-CSharp.csproj|C:\\Users\\User\\bouncing ball\\assets\\kodlar\\donus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3629AA2-1306-AB16-02A0-50A5038C9BD2}|Assembly-CSharp.csproj|solutionrelative:assets\\kodlar\\donus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3629AA2-1306-AB16-02A0-50A5038C9BD2}|Assembly-CSharp.csproj|c:\\users\\user\\bouncing ball\\assets\\kodlar\\top.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3629AA2-1306-AB16-02A0-50A5038C9BD2}|Assembly-CSharp.csproj|solutionrelative:assets\\kodlar\\top.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3629AA2-1306-AB16-02A0-50A5038C9BD2}|Assembly-CSharp.csproj|C:\\Users\\User\\bouncing ball\\assets\\kodlar\\topalt\u0131gen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3629AA2-1306-AB16-02A0-50A5038C9BD2}|Assembly-CSharp.csproj|solutionrelative:assets\\kodlar\\topalt\u0131gen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3629AA2-1306-AB16-02A0-50A5038C9BD2}|Assembly-CSharp.csproj|C:\\Users\\User\\bouncing ball\\assets\\kodlar\\donusalt\u0131gen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3629AA2-1306-AB16-02A0-50A5038C9BD2}|Assembly-CSharp.csproj|solutionrelative:assets\\kodlar\\donusalt\u0131gen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3629AA2-1306-AB16-02A0-50A5038C9BD2}|Assembly-CSharp.csproj|C:\\Users\\User\\bouncing ball\\assets\\kodlar\\yonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3629AA2-1306-AB16-02A0-50A5038C9BD2}|Assembly-CSharp.csproj|solutionrelative:assets\\kodlar\\yonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "geriTusu.cs",
+              "DocumentMoniker": "C:\\Users\\User\\bouncing ball\\Assets\\Kodlar\\geriTusu.cs",
+              "RelativeDocumentMoniker": "Assets\\Kodlar\\geriTusu.cs",
+              "ToolTip": "C:\\Users\\User\\bouncing ball\\Assets\\Kodlar\\geriTusu.cs",
+              "RelativeToolTip": "Assets\\Kodlar\\geriTusu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T23:48:19.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hexagonTiklama.cs",
+              "DocumentMoniker": "C:\\Users\\User\\bouncing ball\\Assets\\Kodlar\\hexagonTiklama.cs",
+              "RelativeDocumentMoniker": "Assets\\Kodlar\\hexagonTiklama.cs",
+              "ToolTip": "C:\\Users\\User\\bouncing ball\\Assets\\Kodlar\\hexagonTiklama.cs",
+              "RelativeToolTip": "Assets\\Kodlar\\hexagonTiklama.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T23:43:08.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "squareTiklama.cs",
+              "DocumentMoniker": "C:\\Users\\User\\bouncing ball\\Assets\\Kodlar\\squareTiklama.cs",
+              "RelativeDocumentMoniker": "Assets\\Kodlar\\squareTiklama.cs",
+              "ToolTip": "C:\\Users\\User\\bouncing ball\\Assets\\Kodlar\\squareTiklama.cs",
+              "RelativeToolTip": "Assets\\Kodlar\\squareTiklama.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T23:29:32.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YoneticiAlt\u0131gen.cs",
+              "DocumentMoniker": "C:\\Users\\User\\bouncing ball\\Assets\\Kodlar\\YoneticiAlt\u0131gen.cs",
+              "RelativeDocumentMoniker": "Assets\\Kodlar\\YoneticiAlt\u0131gen.cs",
+              "ToolTip": "C:\\Users\\User\\bouncing ball\\Assets\\Kodlar\\YoneticiAlt\u0131gen.cs",
+              "RelativeToolTip": "Assets\\Kodlar\\YoneticiAlt\u0131gen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T23:06:18.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "topAlt\u0131gen.cs",
+              "DocumentMoniker": "C:\\Users\\User\\bouncing ball\\Assets\\Kodlar\\topAlt\u0131gen.cs",
+              "RelativeDocumentMoniker": "Assets\\Kodlar\\topAlt\u0131gen.cs",
+              "ToolTip": "C:\\Users\\User\\bouncing ball\\Assets\\Kodlar\\topAlt\u0131gen.cs",
+              "RelativeToolTip": "Assets\\Kodlar\\topAlt\u0131gen.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowFQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T23:04:59.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "donusalt\u0131gen.cs",
+              "DocumentMoniker": "C:\\Users\\User\\bouncing ball\\Assets\\Kodlar\\donusalt\u0131gen.cs",
+              "RelativeDocumentMoniker": "Assets\\Kodlar\\donusalt\u0131gen.cs",
+              "ToolTip": "C:\\Users\\User\\bouncing ball\\Assets\\Kodlar\\donusalt\u0131gen.cs",
+              "RelativeToolTip": "Assets\\Kodlar\\donusalt\u0131gen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T23:04:14.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Yonetici.cs",
+              "DocumentMoniker": "C:\\Users\\User\\bouncing ball\\Assets\\Kodlar\\Yonetici.cs",
+              "RelativeDocumentMoniker": "Assets\\Kodlar\\Yonetici.cs",
+              "ToolTip": "C:\\Users\\User\\bouncing ball\\Assets\\Kodlar\\Yonetici.cs",
+              "RelativeToolTip": "Assets\\Kodlar\\Yonetici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:17:28.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Top.cs",
+              "DocumentMoniker": "C:\\Users\\User\\bouncing ball\\Assets\\Kodlar\\Top.cs",
+              "RelativeDocumentMoniker": "Assets\\Kodlar\\Top.cs",
+              "ToolTip": "C:\\Users\\User\\bouncing ball\\Assets\\Kodlar\\Top.cs",
+              "RelativeToolTip": "Assets\\Kodlar\\Top.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAIBJwFMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:59:21.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "donus.cs",
+              "DocumentMoniker": "C:\\Users\\User\\bouncing ball\\Assets\\Kodlar\\donus.cs",
+              "RelativeDocumentMoniker": "Assets\\Kodlar\\donus.cs",
+              "ToolTip": "C:\\Users\\User\\bouncing ball\\Assets\\Kodlar\\donus.cs",
+              "RelativeToolTip": "Assets\\Kodlar\\donus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:56:50.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
